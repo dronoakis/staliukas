@@ -1,0 +1,11 @@
+Model Information:
+* title:	spider
+* source:	https://sketchfab.com/3d-models/spider-8a74a4a174094069adfcfdc1688b58cb
+* author:	kafincik (https://sketchfab.com/kafincik)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "spider" (https://sketchfab.com/3d-models/spider-8a74a4a174094069adfcfdc1688b58cb) by kafincik (https://sketchfab.com/kafincik) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
